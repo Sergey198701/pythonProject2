@@ -7,3 +7,5 @@ print(dir(pack1))
 print(pack1.Pdoc.doc1)
 if __name__ == '__main':
     print('go')
+else:
+    print('not go')
